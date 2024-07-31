@@ -1,0 +1,7 @@
+C:\Projects\webApplications\testProject\testProject\bin\Debug\testProject.exe.config
+C:\Projects\webApplications\testProject\testProject\bin\Debug\testProject.exe
+C:\Projects\webApplications\testProject\testProject\bin\Debug\testProject.pdb
+C:\Projects\webApplications\testProject\testProject\obj\Debug\WordSplit_Assignment.csproj.AssemblyReference.cache
+C:\Projects\webApplications\testProject\testProject\obj\Debug\WordSplit_Assignment.csproj.CoreCompileInputs.cache
+C:\Projects\webApplications\testProject\testProject\obj\Debug\testProject.exe
+C:\Projects\webApplications\testProject\testProject\obj\Debug\testProject.pdb
